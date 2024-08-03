@@ -1,0 +1,24 @@
+.getAppContainer{
+    display: grid;
+    margin-top: -20px;
+    align-items: center;
+    justify-content: center;
+}
+.getApp{
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 100px;
+    padding-bottom: 4px;
+    padding-top:2px ;
+}
+.getApps{
+    display: flex;
+    margin-top: -10px;
+    gap:10px;
+}
+.gplay1{
+    width: 134px;
+}
+.microsoft1{
+    width:109px;
+}
